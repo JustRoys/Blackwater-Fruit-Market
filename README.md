@@ -1,8 +1,9 @@
 # Blackwater Fruit Market
 <p align="center">
-  <img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/JustRoys/JR-BlackwaterFruitMarket">
-  <img alt="Total download" src="https://img.shields.io/github/downloads/JustRoys/JR-BlackwaterFruitMarket/total"/>
-  <img alt="Discord" src="https://img.shields.io/discord/1137911244658065529?logo=discord&label=JR%20Scripts%20Discord">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/JustRoys/JR-BlackWaterFruitMarket">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/JustRoys/JR-BlackwaterFruitMarket/total">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JustRoys/JR-BlackwaterFruitMarket">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JustRoys/JR-BlackwaterFruitMarket">
 </p>
 
 ---
