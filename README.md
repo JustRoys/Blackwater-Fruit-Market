@@ -18,7 +18,7 @@ This looks better with the camps enabled
 - Cart with food
 
 > [!NOTE]
-> This resource was free on my github but not published on Github
+> This resource was free on my Tebex but not published on Github
 ---
 ## Images
 ![blackwater1](https://github.com/user-attachments/assets/0f9281dc-2d48-4f6a-ad1e-af0e69f805ac)
